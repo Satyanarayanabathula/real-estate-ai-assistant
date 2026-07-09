@@ -3,7 +3,10 @@
 import streamlit as st
 from rag import process_urls, generate_answer
 
-st.title("Real Estate Research Tool")
+st.title("🏡 Real Estate AI Assistant")
+st.caption(
+    "Ask questions about any real estate website using Retrieval-Augmented Generation (RAG)"
+)
 
 url1 = st.sidebar.text_input("URL 1")
 url2 = st.sidebar.text_input("URL 2")
