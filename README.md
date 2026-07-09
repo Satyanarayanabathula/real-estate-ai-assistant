@@ -1,4 +1,4 @@
-# 🏠 Real Estate Research Tool (RAG)
+#🏡 Real Estate AI Assistant
 
 This project is an AI-powered tool that analyzes real estate news articles and answers user queries using Retrieval-Augmented Generation (RAG).
 
